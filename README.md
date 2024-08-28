@@ -10,7 +10,7 @@ Below, in order of release, are the disk images included in this repository.
 **Glider 4.0** (BNDL identifier `GLID`) was the first game I had published commercially. I had seen a few games published by Casady & Greene, Inc. (C&G) and reached out to them to see if they were interested in **Glider**. I suggested I could write a commercial **Glider** to support color and that the game would have a "house" (the game levels) with some forty or so rooms (the shareware game had only ten or fifteen rooms as I recall). They agreed and so advanced me enough cash to buy a color Macintosh and a color display.
 
 <p align="center">
-<img width="752" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/f188aaed99fccf01c4140afe1641e17ed16a959e/Images/BasiliskIIScreenshot.jpg">
+<img width="752" src="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects/blob/b365778f5129970dbb572805d3c252235d49d766/Images/BasiliskIIScreenshot.jpg">
 </p>
 
 I believe I more or less finished **Glider 4.0** around the beginning of the fall of 1991. That fall I was in my last year of an Education degree at the University of Kansas. I student taught that last year and I recall telling my high school students that I had a game coming out, ha ha.
