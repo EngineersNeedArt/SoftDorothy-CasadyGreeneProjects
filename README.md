@@ -22,7 +22,7 @@ I could have kept the **House Editor** (BNDL identifier `GLed`) as an internal t
 I found out very quickly though that work on the House Editor in fact involved more work than **Glider** itself. It turned out that "idiot proofing" the editor required a lot of sanity checking and busy work. As an example, when a user adds a bouncing ball to a room, there is a Get Info dialog that allows you to edit various parameters of the ball such as the **Length of travel**. When a user entered a value I had to make sure it was not negative, not too large for the room. These kinds of sanity checks are all over in the code and required a lot of busy effort.
 
 <p align="center">
-<img width="752" src="https://github.com/EngineersNeedArt/SoftDorothyProjects/blob/e13d52bbfb8e2eb1e904a019a68b3ddd9c84a19a/Images/GliderEditorScreenshot.jpg">
+<img width="752" src="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects/blob/265b7f87d170fb85c75443b5152532326113aea5/Images/GliderEditorScreenshot.jpg">
 </p>
 
 **Glider 4.0** 4.0 went on to win a MacWorld Game Hall of Fame award. I graduated with my Education degree but as a result of **Glider's** success I decided to put off teaching at least for the time being. The game programming gig would likely be brief and teaching would still be there in any event.
