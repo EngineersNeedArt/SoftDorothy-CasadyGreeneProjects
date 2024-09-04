@@ -69,3 +69,12 @@ As I mentioned earlier, in order to justify **Glider PRO** I asked a few "house 
 
 When it finally started to come together, the kind folks at Casady & Greene began to also beta-test and try to navigate through "Slumberland". And true to the original concept, players would fly out of the first house, fly into a second, travel for a good deal through the sewers beneath the ground, travel across fields ...
 
+### Changing Times
+
+Eventually an engineer working on the graphics team at Apple Computer Inc. reached out to me and I was flown out to California for a job interview. In 1995 I began as a programmer at Apple just as the company was sliding into the darkest period of its existence. Nonetheless, there was no doubt in my mind that my stint as a solo game developer had run its course. My girlfriend would follow me to California for our next adventure. Writing games was questionable in any event since Apple stipulated that any programming that its engineers did belonged to Apple — on or off the clock.
+
+In fact I somehow survived the layoffs — made my career at Apple. I married my girlfriend and we raised three California girls in the Bay Area.
+
+Casady & Greene suffered the fate that I think the majority of the "mom and pop" software houses were succumbing to. Game sales were in fact going increasingly to the bigger players that had broader reach. Productivity apps were concentrated to a handful of the big players — utility software was being bundled in the OS itself. As a company C&G's last "hurrah" was their sale of Jeff Robbins' popular "SoundJam" application to Apple where it was rebranded "iTunes". I suppose it was not enough to sustain them though.
+
+In my mind though, like some kind of postcard, Casady & Greene will still always be this image of straw-colored hills dotted with Live Oak trees and the friendly people I met that were so warm and welcoming to this complete stranger: this bewildered Kansas so out of my element.
