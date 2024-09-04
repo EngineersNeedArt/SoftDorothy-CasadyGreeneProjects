@@ -58,9 +58,9 @@ Additionally, there were a number of "houses" (**Glider** levels) that users had
 Writing **Glider PRO** was to return to the one game that I had done that had seen some popularity. Even as I was writing it though I had a growing sense that the window for the "indie" game writer was coming to a close. LucasArts, just to pick one, were coming into the computer game market with all their art talent and resources (and franchise) behind them. The new CD-ROM games like Myst with all the art and assets were raising the bar as to what players expected from a modern computer game.
 
 <p align="center">
-<img width="720" src="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects/blob/da0a29e4c27be9fcf5b9420e4949fe710a18dc51/Images/Slumberland%20Arise.jpg">
+<img width="720" src="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects/blob/fe95136609f548dbe5ef56e737518e8d477b47ce/Images/Slumberland%20Arise.jpg">
   <br>
-<em>Pencil sketch, inked in and then scanned. I would add color, fix it up in Photoshop.</em>
+<em>Pencil sketch, inked in and then scanned. I would add color, fix it up in Photoshop for the splash screen.</em>
 </p>
 
 In one way, **Glider PRO** was a reaction to the **Glider** games up to that point. I started to feel a creeping kind of claustrophobia in the game — being holed up in a house as it were, looking for an open window. So **GliderPRO** would introduce (in addition to other things) the outdoors as a place to explore with your paper airplane.
