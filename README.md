@@ -52,4 +52,9 @@ Despite all of the above though, **Pararena 2.0** never made even 10% of what **
 Additionally, there were a number of "houses" (**Glider** levels) that users had created. Each of the individuals that had created the houses we shipped were asked for permission to ship them, were given a payout of some cash as I recall, and were able to include a "READ ME" where they describe their houses. Some of the creators I would contact again a year of so later when I was beginning the follow-on to **Glider 4.0**, **Glider PRO**. The "house" that shipped with **Glider PRO** would end up being a collaborative effort between myself and three other **Glider** fans.
 
 ### Glider PRO
-WIP
+
+Writing **Glider PRO** was to return to the one game that I had done that had seen some popularity. Even as I was writing it though I had a growing sense that the window for the "indie" game writer was coming to a close. LucasArts, just to pick one, were coming into the computer game market with all their art talent and resources (and franchise) behaind them. The new CD ROM games like Myst with all the art and assets were raising the bar as to what players expected from a modern computer game.
+
+In one way, **Glider PRO** was a reaction to the **Glider** games up to that point. I started to feel a creeping kind of claustrophobia in the game — being holed up in a house as it were, looking for an open window. So **GliderPRO** would introduce (in addition to other things) the outdoors as a place to explore with your paper airplane.
+
+The rooms remained 512 x 342 pixels in size but with larger, color displays having become the norm I decided to render as many as 9 rooms — "Hollywood Squares" style.
