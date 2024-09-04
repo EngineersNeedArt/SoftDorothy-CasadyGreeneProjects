@@ -1,13 +1,14 @@
 # Soft Dorothy Software — Early Published Projects
 Disk images (intended for emulators) containing code and tools for building the commercial games John Calhoun wrote for Casady & Greene, Inc.
 
-I wanted to capture in one place the sources to the early Macintosh games I published with Casady & Greene Inc. as well as the old build environment (THINK C, THINK Pascal, ResEdit) and create disk images suitable for the current early Macintosh emulators. The disk images here (zipped to save space) can be downloaded and you should be able to mount them in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. 
+I wanted to capture in one place the sources to the early Macintosh games I published with Casady & Greene Inc. as well as the old build environment (THINK C, THINK Pascal, CodeWarrior, ResEdit) and create a disk image suitable for the current early Macintosh emulators. The disk image (zipped to save space) can be downloaded and you should be able to mount it in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. 
 
-Below, in order of release, are the disk images included in this repository.
+Below, in order of release, are the sources included on the disk image.
 
-### Glider4Dev.dsk (First commercial version of Glider)
+### Glider 4.0
+(BNDL identifier `GLID`)
 
-**Glider 4.0** (BNDL identifier `GLID`) was the first game I had published commercially. I had seen a few games published by Casady & Greene, Inc. (C&G) and reached out to them to see if they were interested in **Glider**. I suggested I could write a commercial **Glider** to support color and that the game would have a "house" (the game levels) with some forty or so rooms (the shareware game had only ten or fifteen rooms as I recall). They agreed and so advanced me enough cash to buy a color Macintosh and a color display.
+**Glider 4.0** was the first game I had published commercially. I had seen a few games published by Casady & Greene, Inc. (C&G) and reached out to them to see if they were interested in **Glider**. I suggested I could write a commercial **Glider** to support color and that the game would have a "house" (the game levels) with some forty or so rooms (the shareware game had only ten or fifteen rooms as I recall). They agreed and so advanced me enough cash to buy a color Macintosh and a color display.
 
 <p align="center">
 <img width="752" src="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects/blob/b365778f5129970dbb572805d3c252235d49d766/Images/BasiliskIIScreenshot.jpg">
@@ -29,11 +30,10 @@ I found out very quickly though that work on the House Editor in fact involved m
 
 Additionally, AOL (America On-Line) had become a thing about that time and **Glider 4.0** houses that people had created with the house editor started being uploaded and downloaded. I was surprised to see the small community that built up. Even a fan newsletter for a time. If creating houses was not your thing, **Glider** could still get a longer shelf-life by downloading and playing houses that others had created.
 
-### Pararena2Dev.dsk (Commercial version of Pararena)
+### Pararena 2.0
+(BNDL identifier `RenA`)
 
-As with the other disk images, unzip `Pararena2Dev.dsk` and mount with one of the early Macintosh emulators listed above. THINK C, and  ResEdit are included on the disk so that you have everything needed to build and run **Pararena 2.0**
-
-**Pararena 2.0** (BNDL identifier `RenA`) was the second game I wrote that was published by Casady & Greene Inc. (C&G). It came about after the success of **Glider** when C&G asked, "What else you got?" I had my doubts about **Pararena** but the shareware version had something of a small but dedicated fanbase. I imagined that in addition to color, perhaps I could add enough additional features to make it more commercially viable. The dates on the original files suggest the game was written in July of 1992, roughly a year after **Glider 4.0** was written. 
+**Pararena 2.0** was the second game I wrote that was published by Casady & Greene Inc. (C&G). It came about after the success of **Glider** when C&G asked, "What else you got?" I had my doubts about **Pararena** but the shareware version had something of a small but dedicated fanbase. I imagined that in addition to color, perhaps I could add enough additional features to make it more commercially viable. The dates on the original files suggest the game was written in July of 1992, roughly a year after **Glider 4.0** was written. 
 
 <p align="center">
 <img src="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects/blob/fff10d77b13afe2aff30a19739a52d47cb835fb4/Images/PararenaRejectedSplashScreen.png">
@@ -46,3 +46,9 @@ As with the other disk images, unzip `Pararena2Dev.dsk` and mount with one of th
 Some thing I added to hopefully give it more commercial-game gravitas was an "instant replay" that showed, TV-style, the seconds leading up to a scored goal. I also added several computer opponents that varied from novice to expert-level players. There were tournaments and awards you could try to attain within the game. And finally there was a rudimentary network option where two Macintoshes, connected by a null-modem cable (and if they were lucky) could play a game head-to-head, human vs. human.
 
 Despite all of the above though, **Pararena 2.0** never made even 10% of what **Glider 4.0** had made. It was not going to be possible to live on the royalties if game sales followed in **Pararena's** footsteps. I reminded myself though that I still had the Education degree and could always begin my teaching career.
+
+### More Glider
+WIP
+
+### Glider PRO
+WIP
