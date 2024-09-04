@@ -25,7 +25,9 @@ I found out very quickly though that work on the **House Editor** in fact involv
 <img width="752" src="https://github.com/EngineersNeedArt/SoftDorothy-PublishedProjects/blob/265b7f87d170fb85c75443b5152532326113aea5/Images/GliderEditorScreenshot.jpg">
 </p>
 
-**Glider 4.0** 4.0 went on to win a MacWorld Game Hall of Fame award. I graduated with my Education degree but as a result of **Glider** having been published I decided to put off teaching — at least for the time being. The game-programming gig would likely be brief and teaching would still be there in any event.
+C&G flew me out to Boston for my first MacWorld show where they had a booth selling **Glider 4.0** in addition to the other titles they published. There I met Michael Green in the flesh for the first time. I was warmly greeted by the other C&G employees who were out helping man the booth and seemed to enjoy the shows.
+
+**Glider 4.0** went on to win a MacWorld Game Hall of Fame award. I graduated with my Education degree but as a result of **Glider** having been published I decided to delay teaching — at least for the time being. The game-programming gig would likely be brief and teaching would still be there in any event.
 
 Serendipitously, AOL (America On-Line) had become a thing about that time and **Glider 4.0** houses that people had created with the **House Editor** started being uploaded and downloaded. I was surprised to see the small community that built up. Even a fan newsletter appeared for a time. If creating new houses was not your thing, **Glider** could still have a longer shelf-life by downloading and playing houses that *others* had created.
 
