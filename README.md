@@ -47,6 +47,10 @@ Some thing I added to hopefully give it more commercial-game gravitas was an "in
 
 Despite all of the above though, **Pararena 2.0** never made even 10% of what **Glider 4.0** had made. It was not going to be possible to live on the royalties if game sales followed in **Pararena's** footsteps. I reminded myself though that I still had the Education degree and could always begin my teaching career.
 
+<p align="center">
+<img width="600" src="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects/blob/a5947c6cc61a77cd3804de5f58aa5f244a8d4646/Images/Pararena2Boxart.jpg">
+</p>
+
 ### More Glider
 
 **More Glider** is not a programming project like the others on the disk image but is included more for completeness. When the floppy disk for **More Glider** shipped it contained a new house I had created — one I made intentionally difficult to give the better **Glider 4.0** players a run for their money. I also had tweaked a lot of the game artwork from **Glider 4.0** and included the alternate artwork in files that you could swap for the existing artwork files.
