@@ -1,7 +1,9 @@
 # Soft Dorothy Software — Casady & Greene Projects
 A disk image (intended for emulators) containing code and tools for building the commercial games John Calhoun wrote for **Casady & Greene, Inc.**
 
-I wanted to capture in one place the sources to the early Macintosh games I published with Casady & Greene Inc. as well as the old build environments (THINK C, THINK Pascal, CodeWarrior, ResEdit) and put these on a disk image suitable for the current early Macintosh emulators. The disk image (zipped to save space) can be downloaded and then you should be able to mount it in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. Opening one of the game projects should then allow you to edit, compile, and run the game in the same way I did in the 1990's.
+I wanted to capture in one place the sources to the early Macintosh games I published with Casady & Greene Inc. (C&G) as well as the old build environments (THINK C, THINK Pascal, CodeWarrior, ResEdit) and put these on a disk image suitable for the current early Macintosh emulators. The disk image (zipped to save space) can be downloaded and then you should be able to mount it in <a href="https://basilisk.cebix.net">Basilisk II</a>, <a href="https://sheepshaver.cebix.net">Sheepshaver</a> or <a href="https://www.gryphel.com/c/minivmac/">MiniVMac</a>. Opening one of the game projects should then allow you to edit, compile, and run the game in the same way I did in the 1990's.
+
+> These are not technically "Soft Dorothy Software" since C&G published them. But I'm trying for a consistent naming convention between the repos I am creating for my various game projects.
 
 Below, in order of release, are the sources included on the disk image.
 
