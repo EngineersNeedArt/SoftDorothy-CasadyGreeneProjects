@@ -53,8 +53,19 @@ Additionally, there were a number of "houses" (**Glider** levels) that users had
 
 ### Glider PRO
 
-Writing **Glider PRO** was to return to the one game that I had done that had seen some popularity. Even as I was writing it though I had a growing sense that the window for the "indie" game writer was coming to a close. LucasArts, just to pick one, were coming into the computer game market with all their art talent and resources (and franchise) behaind them. The new CD ROM games like Myst with all the art and assets were raising the bar as to what players expected from a modern computer game.
+Writing **Glider PRO** was to return to the one game that I had done that had seen some popularity. Even as I was writing it though I had a growing sense that the window for the "indie" game writer was coming to a close. LucasArts, just to pick one, were coming into the computer game market with all their art talent and resources (and franchise) behind them. The new CD-ROM games like Myst with all the art and assets were raising the bar as to what players expected from a modern computer game.
 
 In one way, **Glider PRO** was a reaction to the **Glider** games up to that point. I started to feel a creeping kind of claustrophobia in the game — being holed up in a house as it were, looking for an open window. So **GliderPRO** would introduce (in addition to other things) the outdoors as a place to explore with your paper airplane.
 
-The rooms remained 512 x 342 pixels in size but with larger, color displays having become the norm I decided to render as many as 9 rooms — "Hollywood Squares" style.
+> The name, **Glider PRO**, was conceived as a kind of joke at the time — a kind of jab at the word "pro" being tacked on to a number of productivity applications in the 90's.
+
+The rooms remained 512 x 342 pixels in size but with larger, color displays having become the norm I decided to render as many as 9 rooms — "Hollywood Squares" style. I would also support 256 colors and not force users to play in 16-color mode.
+
+With no "escape room" in **Glider PRO** (esacping the house being the goal in the original **Glider 4.0**) I had to have a new goal. That became collecting all the stars in the "house". So stars became a new game object — joined by a number of other new objects. Switches in one room could toggle the state of objects in another room allowing for puzzle-like levels where a number of switches needed to be found and toggled in order to progress ot the next star.
+
+This time too, rather than a separate level-editor application, I integrated editing directly into **Glider PRO**.
+
+As I mentioned earlier, in order to justify **Glider PRO** I asked a few "house authors" that had done really stellar work creating houses with **Glider 4.0** to help me on the house that ultimately shipped with **Glider PRO** (cllaed *Slumberland*). I blocked out a large amount of "level real estate" and Sean, Steve and Ward each took their slice and got busy creating rooms, puzzles, etc. I would periodically update them with a new beta of **Glider PRO**, periodically integrate their house edits into the combined "master".
+
+When it finally started to come together, the kind folks at Casady & Greene began to also beta-test and try to navigate through "Slumberland". And true to the original concept, players would fly out of the first house, fly into a second, travel for a good deal through the sewers beneath the ground, travel across fields ...
+
