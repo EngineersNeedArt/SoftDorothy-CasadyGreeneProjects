@@ -96,5 +96,5 @@ In my mind though, like some kind of postcard, Casady & Greene will still always
 <p align="center">
 <img src="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects/blob/9899fe07e681a52fdf591c80747f82b8ed17ed67/Images/JudyDonPiano1.jpeg">
   <br>
-<em>Judy and Don of Casady & Greene seated at a hotel piano.</em>
+<em>Judy and Don of Casady & Greene seated at a hotel piano — MacWorld Expo, Boston.</em>
 </p>
