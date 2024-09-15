@@ -7,7 +7,7 @@ I wanted to capture in one place the sources to the early Macintosh games I publ
 
 Below, in order of release, are the sources included on the disk image.
 
-### Glider 4.0
+### Glider 4.0:
 
 **Glider 4.0** was the first game I had published commercially. I had seen ads in magazines for a few games published by **Casady & Greene, Inc.** (C&G) and reached out to them to see if they were interested in **Glider**. I suggested I could write a commercial version of **Glider** to support color and that the game would have a "house" (the game levels) with some forty or so rooms (the shareware game had only ten or fifteen rooms as I recall). They agreed and so advanced me enough money to buy a color Macintosh and a color display.
 
@@ -33,7 +33,7 @@ C&G flew me out to Boston for my first MacWorld show where they had a booth sell
 
 Serendipitously, AOL (America On-Line) had become a thing about that time and **Glider 4.0** houses that people had created with the **House Editor** started being uploaded and downloaded. I was surprised to see the small community that built up. Even a fan newsletter appeared for a time. If creating new houses was not your thing, **Glider** could still have a longer shelf-life by downloading and playing houses that *others* had created.
 
-### Pararena 2.0
+### Pararena 2.0:
 
 **Pararena 2.0** was the second game I wrote that was published by C&G. It came about after the success of **Glider** when C&G asked, "What else you got?" I had my doubts about **Pararena** but the shareware version had something of a small but dedicated fanbase. I imagined that in addition to color, perhaps I could add enough additional features to make it more commercially viable. The dates on the original files suggest the game was written in July of 1992, roughly a year after **Glider 4.0** was written. 
 
@@ -53,13 +53,13 @@ Despite all of the above though, **Pararena 2.0** never made even 10% of what **
 <img width="600" src="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects/blob/a5947c6cc61a77cd3804de5f58aa5f244a8d4646/Images/Pararena2Boxart.jpg">
 </p>
 
-### More Glider
+### More Glider:
 
 **More Glider** is not a programming project like the others on the disk image but is included more for completeness. When the floppy disk for **More Glider** shipped it contained a new house I had created — one I made intentionally difficult to give the better **Glider 4.0** players a run for their money. I also had tweaked a lot of the game artwork from **Glider 4.0** and included the alternate artwork in files that you could swap for the existing artwork files.
 
 Additionally, there were a number of "houses" (**Glider** levels) that users had created. Each of the individuals that had created the houses we shipped were asked for permission to ship them, were given a payout of some cash as I recall, and were able to include a "READ ME" where they describe their houses. Some of the creators I would contact again a year of so later when I was beginning the follow-on to **Glider 4.0**, **Glider PRO**. The "house" that shipped with **Glider PRO** would end up being a collaborative effort between myself and three other **Glider** fans.
 
-### Glider PRO
+### Glider PRO:
 
 Writing **Glider PRO** was to return to the one game that I had done that had seen some popularity. Even as I was writing it though I had a growing sense that the window for the "indie" game writer was coming to a close. LucasArts, just to pick one, were coming into the computer game market with all their art talent and resources (and franchise) behind them. The new CD-ROM games like Myst with all the art and assets were raising the bar as to what players expected from a modern computer game.
 
