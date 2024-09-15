@@ -91,7 +91,9 @@ In fact I somehow survived the layoffs — made my career at Apple. I married m
 
 Casady & Greene suffered the fate that I think the majority of the "mom and pop" software houses were succumbing to. Game sales were in fact going increasingly to the bigger players that had broader reach. Productivity apps were concentrated to a handful of the big players — utility software was being bundled in the OS itself. As a company C&G's last "hurrah" was their sale of Jeff Robbins' popular "SoundJam" application to Apple where it was rebranded "iTunes". I suppose it was not enough to sustain them though.
 
-In my mind though, like some kind of postcard, Casady & Greene will still always be this image of straw-colored hills dotted with Live Oak trees and the friendly people I met that were so warm and welcoming to this complete stranger: this bewildered Kansas so out of my element.
+In my mind though, like some kind of postcard, Casady & Greene will still always be this image of straw-colored hills dotted with Live Oak trees and the friendly people I met that were so warm and welcoming to this complete stranger: this bewildered Kansan so out of my element.
+
+**John Calhoun—**
 
 <p align="center">
 <img src="https://github.com/EngineersNeedArt/SoftDorothy-CasadyGreeneProjects/blob/9899fe07e681a52fdf591c80747f82b8ed17ed67/Images/JudyDonPiano1.jpeg">
