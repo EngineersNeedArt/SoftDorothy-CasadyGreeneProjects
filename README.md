@@ -75,7 +75,7 @@ In one way, **Glider PRO** was a reaction to the **Glider** games up to that poi
 
 The rooms remained 512 x 342 pixels in size but with larger, color displays having become the norm I decided to render as many as 9 rooms — "Hollywood Squares" style. I would also support 256 colors and not force users to play in 16-color mode.
 
-With no "escape room" in **Glider PRO** (escaping the house being the goal in the original **Glider 4.0**) I had to have a new goal. That became collecting all the stars in the "house". So stars became a new game object — joined by a number of other new objects. Switches in one room could toggle the state of objects in another room allowing for puzzle-like levels where a number of switches needed to be found and toggled in order to progress ot the next star.
+With no "escape room" in **Glider PRO** (escaping the house being the goal in the original **Glider 4.0**) I had to have a new goal. That became collecting all the stars in the "house". So stars became a new game object — joined by a number of other new objects. Switches in one room could toggle the state of objects in another room allowing for puzzle-like levels where a number of switches needed to be found and toggled in order to progress to the next star.
 
 This time too, rather than a separate level-editor application, I integrated editing directly into **Glider PRO**.
 
